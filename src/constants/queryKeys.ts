@@ -1,0 +1,4 @@
+export const QUERY_KEYS = {
+	FETCH_MOVIES: "FETCH_MOVIES",
+	FETCH_MOVIE_DETAIL: "FETCH_MOVIE_DETAIL",
+} as const;
